@@ -6,7 +6,7 @@ ask away.
 
 ## Prerequisites
 
-- Your channel is a [supported network]
+- Your channel is a [supported network].
 - You are a operator of the channel.
 
 [supported networks]: /about/networks/

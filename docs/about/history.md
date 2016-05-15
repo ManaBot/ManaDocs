@@ -12,7 +12,7 @@ made specifically for the `#paper` channel.
 However because it had a half-finished logging system in place alongside some rather rushed code, I was quick to stop
 developing it.
 
-Atleast until I heard kashike was rewriting the [Korobi] bot, I thought it was about time I rewrote TheStig - do I did.
+Atleast until I heard kashike was rewriting the [Korobi] bot, I thought it was about time I rewrote TheStig - so I did.
 
 The day after rewriting it I decided it was time to give it a new name, so rather than going to my usual inspiration 
 (flowers, fruits, etc) I decided to go with the same inspiration as Korobi: the name of a character from one of my 

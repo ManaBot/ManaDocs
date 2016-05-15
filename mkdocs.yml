@@ -1,1 +1,10 @@
 site_name: Mana Documentation
+theme: readthedocs
+pages:
+  - Home: 'index.md'
+  - Channel:
+    - Requesting: 'channel/requesting.md'
+  - About:
+    - History: 'about/history.md'
+    - Supported Networks: 'about/networks.md'
+
