@@ -4,6 +4,10 @@ pages:
   - Home: 'index.md'
   - Channel:
     - Requesting: 'channel/requesting.md'
+  - Modules: 'module/index.md'
+  - Module:
+    - Bridge: 'module/bridge.md'
+    - Invite: 'module/invite.md'
   - About:
     - History: 'about/history.md'
     - Supported Networks: 'about/networks.md'
