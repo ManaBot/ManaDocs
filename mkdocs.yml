@@ -1,4 +1,9 @@
 site_name: Mana Documentation
+site_description: The documentation of the Mana IRC Bot.
+site_author: Jamie Mansfield
+site_url: http://mana.jamierocks.uk
+repo_url: https://github.com/ManaBot/ManaDocs
+copyright: Copyright (c) 2016, Jamie Mansfield. Licensed under the MIT license.
 theme: readthedocs
 pages:
   - Home: 'index.md'
