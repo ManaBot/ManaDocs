@@ -16,3 +16,4 @@ pages:
   - About:
     - History: 'about/history.md'
     - Supported Networks: 'about/networks.md'
+    - Bridge Module Rules: 'about/bridge/rules.md'

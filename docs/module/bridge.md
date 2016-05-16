@@ -9,6 +9,6 @@ We currently bridge both normal messages and actions in the following formats:
 | Type    | Format                                  | Example                      |
 | ------- | --------------------------------------- | ---------------------------- |
 | message | `[%primary_user_mode%%name%] %message%` | `[@Z750] looks pretty clear` |
-| notice  | `%name% %action%`                       | `jamierocks is the best`     |
+| action  | `%name% %action%`                       | `jamierocks is the best`     |
 
 [supported network]: /about/networks/

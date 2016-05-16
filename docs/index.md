@@ -3,7 +3,7 @@ Mana Documentation
 
 ## Introduction
 
-Welcome to the ManaDocs, home to the documentation of the Mana IRC Bot.
+Welcome to the ManaDocs, home to the Mana IRC Bot documentation.
 
 We are committed to open-source software and as such some of Mana is open-source on our [GitHub organisation].
 

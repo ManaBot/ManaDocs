@@ -14,10 +14,10 @@ developing it.
 
 Atleast until I heard kashike was rewriting the [Korobi] bot, I thought it was about time I rewrote TheStig - so I did.
 
-The day after I started rewriting it I decided it was time to give it a new name, so rather than going to my usual 
+Shortly after I started rewriting it I decided it was time to give it a new name, so rather than going to my usual 
 inspiration (flowers, fruits, etc) I decided to go with the same inspiration as Korobi: the name of a character from
 one of my favourite animes. Problem was - I'd only watched one, but on the bright side it was a good one! So there I
-had it I need a character from Yu-Gi-Oh. It was shortly after I picked [Mana].
+had it I need a character from Yu-Gi-Oh. It was shortly after I picked the name [Mana].
 
 [YourBNC]: https://yourbnc.co.uk/
 [TheStig]: https://github.com/Lexteam/TheStig
